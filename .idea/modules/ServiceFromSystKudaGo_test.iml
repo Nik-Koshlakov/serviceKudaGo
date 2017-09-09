@@ -10,7 +10,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ServiceFromSystKudaGo_main" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.hamcrest:SelfDescribing:1.+" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>

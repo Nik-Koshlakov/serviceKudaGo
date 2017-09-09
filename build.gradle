@@ -43,7 +43,7 @@ repositories {
 dependencies {
     compile "junit:junit:4.11"
     testCompile "junit:junit:4.11"
-    testRuntime "org.hamcrest:SelfDescribing:1.+"
+    //testRuntime "org.hamcrest:SelfDescribing:1.+"
     compile files('path/to/archive.jar')
     compile fileTree(dir: 'path/to/libs', include: '*.jar')
 
