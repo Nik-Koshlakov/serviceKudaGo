@@ -22,10 +22,6 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
-//import org.junit.*;
-//
-//import static org.junit.Assert.*;
-
 /**
  * Created by Nik on 19.06.2017.
  */
